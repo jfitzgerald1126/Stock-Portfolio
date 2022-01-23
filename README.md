@@ -3,4 +3,4 @@ Web-app to track and visualize a selection of stocks built in Streamlit and Pyth
 
 
 Run from terminal using:
-  streamlit run stock.py
+  `streamlit run stock.py`
