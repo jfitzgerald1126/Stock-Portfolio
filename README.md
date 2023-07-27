@@ -40,7 +40,7 @@ streamlit run stock.py
 
 Feel free to explore and analyze different stock portfolios using this web app!
 
-## Acknowledgement
+## Acknowledgements
 This project was inspired by Data Professor's tutorial on YouTube. The initial idea and code structure were derived from their tutorial. You can find more of Data Professor's content on their YouTube channel.
 
 Note: The stock data is fetched using the yfinance library, and the information displayed in this app is based on the data available from the S&P 500 index.
