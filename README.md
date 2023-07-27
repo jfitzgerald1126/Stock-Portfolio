@@ -1,6 +1,6 @@
 # Stock Portfolio Visualization Web App
 
-![Stock Portfolio Visualization App](app_screenshot.png)
+![Stock Portfolio Visualization App](app.png)
 
 This web app allows you to track and visualize a selection of stocks from the S&P 500 index. The app is built using Streamlit and Python and utilizes the yfinance library to fetch stock data and Plotly graph objects to create interactive plots.
 
